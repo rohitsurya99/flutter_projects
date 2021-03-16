@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659542731528",
+    "project_id": "ffbp-adbc2",
+    "storage_bucket": "ffbp-adbc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659542731528:android:aa5a817874a8b187b5dabd",
+        "android_client_info": {
+          "package_name": "com.example.ffb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659542731528-dcvfkv5p5j4h5hfrurpk3sdu6sc3c5rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9heRB3sc_x43Bwg-ydsetC-a53azagoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659542731528-dcvfkv5p5j4h5hfrurpk3sdu6sc3c5rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

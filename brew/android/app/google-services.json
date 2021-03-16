@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282683451933",
+    "project_id": "brew-d9bad",
+    "storage_bucket": "brew-d9bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282683451933:android:bf8360e1973663c431b4f4",
+        "android_client_info": {
+          "package_name": "com.example.brew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282683451933-g30a0tbo03eim0j4eaj5npo95tiuji3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9RpbVHIjKFqFIzx3GuwHL-CuSV2oImzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282683451933-g30a0tbo03eim0j4eaj5npo95tiuji3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
